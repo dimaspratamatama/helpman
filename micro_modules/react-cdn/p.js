@@ -1,0 +1,1 @@
+"use strict";var PC=function(t){return React.createElement("p",null,t.text)};

@@ -1,0 +1,1 @@
+"use strict";new Impack({js:[{from:"https://cdn.jsdelivr.net/npm/vue/dist/vue.js",on:"head"}]}).next(function(){new Vue({el:"#root",data:function(){return{time:(new Date).toLocaleTimeString()}},mounted:function(){this.runTimer()},methods:{runTimer:function(){var e=this;this.time=(new Date).toLocaleTimeString(),setTimeout(function(){e.runTimer()},1e3)}}})});

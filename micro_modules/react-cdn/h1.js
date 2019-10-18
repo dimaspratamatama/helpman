@@ -1,0 +1,1 @@
+"use strict";var H1C=function(t){return React.createElement("h1",null,t.title)};
