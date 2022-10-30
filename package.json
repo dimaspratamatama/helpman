@@ -17,7 +17,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.6",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
     "gulp-batch": "^1.0.5",
     "gulp-clean-css": "^4.2.0",
